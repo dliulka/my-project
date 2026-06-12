@@ -2,3 +2,4 @@ Hello Git
 New text 
 New text 
 Another line 
+Added from VS Code
